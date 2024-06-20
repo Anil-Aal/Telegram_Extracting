@@ -40,5 +40,4 @@ jobs:
 =======
     - name: Test with app.py
 >>>>>>> c98da2766ada404ac89ac7e704c8fa5e30222483
-      run: |
-        app.py
+      run: | python app.py
